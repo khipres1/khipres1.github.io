@@ -1,0 +1,17 @@
+body{
+          font-size:20px;
+          font-family: 'Poiret One', cursive;
+          color: BLACK;
+          background-image:url("https://media.giphy.com/media/3og0IQ29pE7zRwbh60/source.gif");
+          }
+          nav{
+              font-size:50px;
+              color:white;
+          } canvas{margin:0 auto; display: block;}
+h1{display: block; text-align: center; margin-top:-300px; }
+header {
+    border: 5px solid black
+}
+
+
+ 
